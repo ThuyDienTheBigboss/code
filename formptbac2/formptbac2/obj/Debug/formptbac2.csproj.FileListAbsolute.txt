@@ -1,0 +1,14 @@
+D:\formptbac2\formptbac2\bin\Debug\formptbac2.exe.config
+D:\formptbac2\formptbac2\bin\Debug\formptbac2.exe
+D:\formptbac2\formptbac2\bin\Debug\formptbac2.pdb
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.csproj.AssemblyReference.cache
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.csproj.SuggestedBindingRedirects.cache
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.Properties.Resources.resources
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.csproj.GenerateResource.cache
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.csproj.CoreCompileInputs.cache
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.exe
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.pdb
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.PT_bac2.resources
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.F_main.resources
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.login.resources
+D:\formptbac2\formptbac2\obj\Debug\formptbac2.PhongBan.resources

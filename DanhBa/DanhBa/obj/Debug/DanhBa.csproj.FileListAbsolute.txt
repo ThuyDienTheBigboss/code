@@ -1,0 +1,6 @@
+D:\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.AssemblyReference.cache
+D:\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.SuggestedBindingRedirects.cache
+D:\DanhBa\DanhBa\obj\Debug\DanhBa.Form1.resources
+D:\DanhBa\DanhBa\obj\Debug\DanhBa.Properties.Resources.resources
+D:\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.GenerateResource.cache
+D:\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.CoreCompileInputs.cache

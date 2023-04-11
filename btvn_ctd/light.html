@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        #demo{
+            width: 300px;
+            height: 200px;
+            background-color: gray;
+    
+        }
+    
+    </style>
+</head>
+<body>
+    <div id="demo" onmouseenter="this.style.backgroundColor='yellow'" onmouseleave="this.style.backgroundColor='gray'"></div>
+    <input type="text" onkeydown="this.style.backgroundColor='orange'" onkeyup='this.style.backgroundColor="yellow"'  placeholder="Nhập vào đây">
+    <select onchange="alert('Bạn vừa thay đổi giá trị của phần từ này')">
+    <option value="html">HTML</option>
+<option value="css">CSS</option>
+<option value="javasming">JAVASING</option>
+<option value="mysql">MySQL</option>
+<option value="PHP">PHP</option></select>
+<button onclick="hello()">Chúng ta của hiện tại </button>
+<p id="demo"></p>
+<script>
+    function hello(){
+        var name ='Chu thuy dien'
+        var age='20'
+        var str="toi ten"+name +"tuổi "+age;
+        document.getElementById('demo').innerHTML=str;
+
+    }
+    
+</script>
+<input type="text" onkeydown="this.style.backgroundColor='red'" onkeyup="this.style.backgroundColor='yellow'" placeholder="NHẤN">
+<button ondblclick="var a=50 ;var b=100;var result=(a+b )*2;alert('ket qua :'+result)">xem kết quả</button>
+
+<button onclick="xinchao()">ấnnnn </button>
+<p id="index"></p>
+<script>
+    function xinchao(){
+        var name ='Chu thu diennnnnn'
+        Document.getElementById('index').innerHTML=str;
+
+    }
+
+
+</script>
+ <button onclick="myFuction()">ấn vào đây</button>
+ <p id="demo"></p>
+ <p> duói đây là tôi</p>
+ <script>
+    function myFuction(){
+        document.getElementById('demo').innerHTML=str;
+    }
+ </script>
+ <input type="text" onkeydown="this.style.backgroundColor='orange'" onkeyup="this.style.backgroundColor='red'" placeholder="nhập vào đây">
+   <button ondblclick="var a=3; var b=3;var ketqua=a*b;alert('xem ket qua '+ketqua)">ấn dooo
+</button>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+      .img{
+        width: 400px;
+        padding: 10px;
+      }
+      nav{
+        display: flex;
+        justify-content: space-between;
+    justify-items: center;
+    }
+    #menu_meta{
+        display:flex ;
+         list-style: none;
+            margin: 0;
+            padding: 0;
+    }
+    #menu_meta  li a{
+        background-color: deeppink;
+       color:white;
+        display: block;
+        padding: 18px   20px ;
+        text-decoration:none;
+    }
+    li a:hover{
+        font-weight: 800;
+    }
+    nav {
+
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+article {
+  
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+section ::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+    #section{
+
+        background-color:deeppink;
+        color: white;
+        list-style:none ;
+        padding: 0;
+    }
+  
+
+    
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header"></div>
+    <header><img  class="img"src="mixi2.jpg" alt=""></header>
+    
+    <nav>
+        <ul id="menu_meta">
+            <li><a href="">TRANG CHỦ</a></li>
+            <li><a href="">GIỚI THIỆU</a></li>
+            <li><a href="">TIN TỨC -SỰ KIỆN </a></li>
+            <li><a href="">DỊCH VỤ </a></li>
+            <li><a href="">HƯỚNG DẪN MUA HÀNG</a></li>
+            <li><a href="">LIÊN HỆ</a></li>
+        </ul>
+        </nav>
+  
+    <section >
+        <nav>
+        <ul id="section">    
+            <li> <a href="">DANH MỤC SẢN PHẨM   </a>
+                <li>PHẦN MÃ</li>
+                <li>KEM NỀN</li>
+                <li>SON MÔI </li>
+                <li>SỮA RỬA MẶT </li>
+                <li>NƯỚC HOA HỒNG</li>
+            </li>
+           
+        </ul>
+    </nav>
+    <article>
+        
+            <p>Liên hệ </p>
+        
+            <label for="">Họ và tên(*)</label><input type="text"> <br>
+            <label for="">Đơn vị</label><input type="text"> <br>
+            <label for="">Địa chỉ</label><input type="text"> <br> 
+            <label for="">Điện thoại</label><input type="text"> <br>
+            <label for="">Email(*)</label><input type="text"> <br> 
+            <label for="">Lời nhắn</label><input type="text"> <br>
+            <input type="submit" value="Gửi liên hệ" > <br> 
+            <input type="reset" value="Soạn lại  "> <br>
+            
+        
+        
+    </article>
+  </section>
+</body>
+</html>

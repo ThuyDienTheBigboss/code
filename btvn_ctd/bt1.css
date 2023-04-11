@@ -1,0 +1,65 @@
+ @import "compass/css3";
+ /** using mobile first method (IE8,7 requires respond.js polyfill https://github.com/scottjehl/Respond)*/
+ 
+ $breakpoint-alpha:480px;
+ .rwd-table{
+    margin: 1em 0;
+    min-width: 300px;
+
+}
+tr{
+    border-top:1 px solid #ddd ;
+    border-bottom:1px solid #ddd ;
+}
+th{
+    display: none;
+}
+td{
+    display: block;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    content: attr(data-th)":";
+    font-weight: bold;
+    width: 6.5em;
+    display: inline-block;
+    @media  (min-width: $breakpoint-alpha){
+        display:.table-cell;
+        padding: 25em.5em;
+        padding left: 0;
+        padding right: 0;: ;
+    }
+}
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,700'");
+body{
+    padding: 0 2em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-somothing:antialiased;
+    text-rendering: optimizeLegibility;
+    color: #444;
+    background: #eee;
+}
+h1{
+    font-weight: normal;
+    letter-spacing: -1px;
+    color: #34495E;
+}
+.rwd-table{
+    background: #34495E;
+    color: #fff;
+    border-radius: 4em;
+    overflow: hidden;
+}
+tr{
+    border-color: lighten(#34495E,10%);
+
+}
+th,td{
+    margin: 5em 1em;
+    @media  min-width($breakpoint-alpha){
+        padding: 1em;
+        !important;
+    }
+}
+th,td::before{
+    color: #dd5;
+}

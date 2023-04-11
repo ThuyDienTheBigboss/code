@@ -1,0 +1,8 @@
+D:\KeThua\KeThua\bin\Debug\KeThua.exe.config
+D:\KeThua\KeThua\bin\Debug\KeThua.exe
+D:\KeThua\KeThua\bin\Debug\KeThua.pdb
+D:\KeThua\KeThua\obj\Debug\KeThua.csproj.AssemblyReference.cache
+D:\KeThua\KeThua\obj\Debug\KeThua.csproj.SuggestedBindingRedirects.cache
+D:\KeThua\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+D:\KeThua\KeThua\obj\Debug\KeThua.exe
+D:\KeThua\KeThua\obj\Debug\KeThua.pdb

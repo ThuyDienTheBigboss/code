@@ -1,0 +1,8 @@
+D:\Baitapvenha\Baitapvenha\bin\Debug\Baitapvenha.exe.config
+D:\Baitapvenha\Baitapvenha\bin\Debug\Baitapvenha.exe
+D:\Baitapvenha\Baitapvenha\bin\Debug\Baitapvenha.pdb
+D:\Baitapvenha\Baitapvenha\obj\Debug\Baitapvenha.csproj.AssemblyReference.cache
+D:\Baitapvenha\Baitapvenha\obj\Debug\Baitapvenha.csproj.SuggestedBindingRedirects.cache
+D:\Baitapvenha\Baitapvenha\obj\Debug\Baitapvenha.csproj.CoreCompileInputs.cache
+D:\Baitapvenha\Baitapvenha\obj\Debug\Baitapvenha.exe
+D:\Baitapvenha\Baitapvenha\obj\Debug\Baitapvenha.pdb

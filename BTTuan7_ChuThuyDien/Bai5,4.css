@@ -1,0 +1,32 @@
+
+h1,h2{
+    color:seagreen;
+    text-align: center;
+}
+table{
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.td1{
+    color: blue;
+    border: 10px;
+}
+.td2{
+    color: blue;
+}
+.td3{
+    color: blue;
+}
+.td4{
+    color: blue;
+}
+img{
+    border: 2px solid black;
+    border-bottom-color:black ;
+    border-top-width: 5px;
+    border-right-style: dotted;
+    width: 200px;
+}
+.img1{
+    height: 150px;
+}

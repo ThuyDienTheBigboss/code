@@ -1,0 +1,8 @@
+D:\BaitapStruct\BaitapStruct\bin\Debug\BaitapStruct.exe.config
+D:\BaitapStruct\BaitapStruct\bin\Debug\BaitapStruct.exe
+D:\BaitapStruct\BaitapStruct\bin\Debug\BaitapStruct.pdb
+D:\BaitapStruct\BaitapStruct\obj\Debug\BaitapStruct.csproj.AssemblyReference.cache
+D:\BaitapStruct\BaitapStruct\obj\Debug\BaitapStruct.csproj.SuggestedBindingRedirects.cache
+D:\BaitapStruct\BaitapStruct\obj\Debug\BaitapStruct.csproj.CoreCompileInputs.cache
+D:\BaitapStruct\BaitapStruct\obj\Debug\BaitapStruct.exe
+D:\BaitapStruct\BaitapStruct\obj\Debug\BaitapStruct.pdb

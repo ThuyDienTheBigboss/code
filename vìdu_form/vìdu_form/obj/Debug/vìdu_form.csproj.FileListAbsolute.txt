@@ -1,0 +1,12 @@
+D:\vìdu_form\vìdu_form\bin\Debug\vìdu_form.exe.config
+D:\vìdu_form\vìdu_form\bin\Debug\vìdu_form.exe
+D:\vìdu_form\vìdu_form\bin\Debug\vìdu_form.pdb
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.csproj.AssemblyReference.cache
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.csproj.SuggestedBindingRedirects.cache
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.F_NHANSU.resources
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.Properties.Resources.resources
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.csproj.GenerateResource.cache
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.csproj.CoreCompileInputs.cache
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.exe
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.pdb
+D:\vìdu_form\vìdu_form\obj\Debug\vìdu_form.FormChuongtrinh.resources

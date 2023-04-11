@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+table{
+    margin-left: 400px;
+    
+}
+.img1{
+    width: 220px;
+    margin-left: 10px;
+    
+}
+.img2{
+    width: 200px;
+    margin-left: 20px;
+    
+}
+.img3{
+    width: 250px;
+    margin-left: 20px;
+    
+    
+}
+b{
+    margin-left: 90px;
+}
+i{
+    margin-left: 90px;
+    font-size: 12px
+}
